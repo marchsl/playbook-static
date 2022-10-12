@@ -1,0 +1,42 @@
+
+:root {
+  --primary-clr: #133B49;
+  --secondary-clr:#E55608;
+  --bg-secondary: #4CB7B7;
+  --primary-text:#000000;
+  --bg-color:#1c6e89;
+  --light-text: #71767B;
+  --tab-bg: #FAFBFB;
+  --border: rgba(255, 255, 255, 0.12);
+  --primary-border: rgba(222, 225, 229, 0.25);
+  --form-label-size:16px;
+  --white:#ffffff;
+  --font-wt300:300;
+  --font-wt500:500;
+  --font-wt700:700;
+  --font-wt900:900;
+  --font-wt1000:1000;
+  --font-16:16px;
+  --font-14:14px;
+  --font-10:10px;
+  --font-11:11px;
+  --font-12:12px;
+  --font-18:18px;
+  --font-21:21px;
+  --font-23:23px;
+  --font-24:24px;
+  --font-26:26px;
+  --font-28:28px;
+  --font-30:30px;
+  --font-h1-40:40px;
+  --font-h2-108:108px;
+  --font-h2-70:70px;
+  --font-h2-60:60px;
+  --font-h2-32:32px;
+  --font-h2-34:34px;
+  --font-h2-36:36px;
+  --br-radius-40:40px;
+  --br-radius-5:5px;
+  --head-bold:1000;
+  }
+  
